@@ -51,9 +51,7 @@
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mifnaufal/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mifnaufal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mifnaufal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahunnaufal-hidayat-601153385/)
 
 > “Security is not a product, but a process.” – Bruce Schneier  
 > I’m on a journey to build **secure**, **scalable**, and **user-friendly** web applications—while always staying curious about how things can be broken (so they can be fixed better).
