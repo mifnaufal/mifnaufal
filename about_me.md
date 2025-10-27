@@ -1,105 +1,94 @@
-````markdown
-<!-- CYBERTRON v1 – Futuristic Neon Terminal Edition -->
-<!-- Designed for Mifnaufal -->
+<!-- CYBERTRON+GLITCH THEME README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=0AFFEF&center=true&vCenter=true&width=600&lines=INITIALIZING+CYBERTRON...;ACCESS+GRANTED.;WELCOME+TO+MIFNAUFAL'S+TERMINAL.;WEB+DEVELOPER+%7C+PENTESTER+IN+PROGRESS" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=>+BOOTING+CYBERTRON+SYSTEM...;>+ACCESS+GRANTED+AGENT+MIFNAUFAL" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mifnaufal&label=VISITORS&color=7F00FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mifnaufal&label=VISITOR+LOG&color=7F00FF&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 🧠 SYSTEM LOG: About_Me()
+### ⚙️ SYSTEM LOG: About_Me()
 
 ```ascii
-> Booting system components...
-> Connection established to CYBERTRON mainframe.
-> Running identity sequence...
+[ SYSTEM BOOT v3.7.9 — CYBERTRON INTERFACE ]
+> Initializing neural cores... ██████▒▒▒▒▒▒▒
+> Establishing uplink... 100%
+> Error_0021::Visual Matrix Distortion — ignored.
+> Boot sequence interrupted... restoring...
+> ✓ Identity confirmed: MIFNAUFAL
+> ✓ Access level: Developer / Penetration_Tester
+> ✓ Node Integrity: STABLE
+> System Ready.
 ````
 
-* 📚 Studying **Information Technology** at **SMK IDN Boarding School Solo**
-* 🏙️ Origin: **Yogyakarta**, Indonesia
-* 💻 Passionate about **Web Development** & **Cybersecurity**
-* 🔍 Exploring **Ethical Hacking**, **Vulnerability Assessment**, and **Secure Coding Practices**
-* 🛠️ Building systems that merge **performance**, **security**, and **clean design**
+* 🧠 Studying **Information Technology** at **SMK IDN Boarding School Solo**
+* 🌍 Origin: **Yogyakarta, Indonesia**
+* 💻 Passionate about **Web Development & Cybersecurity**
+* 🧩 Exploring **Ethical Hacking**, **Vulnerability Assessment**, and **Secure Coding**
+* ⚙️ Building systems that merge **performance**, **security**, and **clean architecture**
 
 ---
 
-### ⚙️ SYSTEM MODULES: Tech_Stack[]
+### 🛰 SYSTEM MODULES: Tech_Stack[]
 
 #### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,nextjs,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,nextjs,mysql&theme=dark" />
 </p>
 
-#### 🛡️ Security & Pentesting
+#### 🛡 Security & Pentesting
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-F26522?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-0077B6?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFUF-00FFAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0077B6?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge" />
 </p>
 
 #### 🧰 Tools & OS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,git,github,bash" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📊 SYSTEM DIAGNOSTICS: GitHub_Stats()
+### 📊 SYSTEM MONITOR: GitHub_Stats()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mifnaufal&show_icons=true&theme=tokyonight&hide_border=true" height="165em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifnaufal&layout=compact&theme=tokyonight&hide_border=true" height="165em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mifnaufal&theme=neon-dark&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mifnaufal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifnaufal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🛰️ ACTIVE CONNECTIONS
+### 🔗 SYSTEM LINK: Connect()
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miftahunnaufal-hidayat-601153385/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mifnaufal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧩 CYBER QUOTE
+[SECURITY_LOG]
+> Transmission stable.
+> Uplink encrypted [AES-4096].
+> GlitchLayer::ACTIVE ⚡
+> Monitoring nodes for breach attempts...
+> 
+> ...signal distortion detected...
+> Restoring visual interface ███▒▒▒▒▒▒▒
+> SYSTEM STABLE ✅
+> END OF LINE...
 
-```ascii
-> "Security is not a product, but a process."
-> — Bruce Schneier
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=550&lines=Access+Granted.;System+Stable.;Stay+Curious.;Hack+Responsibly.;End+of+Transmission.">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mifnaufal&theme=matrix&margin-w=10&no-frame=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%">
-</p>
-```
+> "Security is not a product, but a process." — Bruce Schneier
+> Continuously evolving between **Web Development**, **Cybersecurity**, and **Digital Defense Engineering**.
