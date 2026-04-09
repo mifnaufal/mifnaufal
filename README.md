@@ -91,4 +91,3 @@
 > "Security is not a product, but a process." — Bruce Schneier
 > Continuously evolving between Web Development, Cybersecurity, and Digital Defense Engineering.
 ```
-```
