@@ -1,5 +1,3 @@
-<!-- CYBERTRON+GLITCH THEME README.md -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=500&lines=>+BOOTING+CYBERTRON+SYSTEM...;>+ACCESS+GRANTED+AGENT+MIFNAUFAL" />
 </h1>
@@ -22,13 +20,13 @@
 > ✓ Access level: Developer / Penetration_Tester
 > ✓ Node Integrity: STABLE
 > System Ready.
-````
+```
 
-* 🧠 Studying **Information Technology** at **SMK IDN Boarding School Solo**
-* 🌍 Origin: **Yogyakarta, Indonesia**
-* 💻 Passionate about **Web Development & Cybersecurity**
-* 🧩 Exploring **Ethical Hacking**, **Vulnerability Assessment**, and **Secure Coding**
-* ⚙️ Building systems that merge **performance**, **security**, and **clean architecture**
+- 🧠 Studying **Information Technology** at **SMK IDN Boarding School Solo**
+- 🌍 Origin: **Yogyakarta, Indonesia**
+- 💻 Passionate about **Web Development & Cybersecurity**
+- 🧩 Exploring **Ethical Hacking**, **Vulnerability Assessment**, and **Secure Coding**
+- ⚙️ Building systems that merge **performance**, **security**, and **clean architecture**
 
 ---
 
@@ -45,9 +43,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0077B6?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0077B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNEg3bDUtOHY0aDRsLTUgOHoiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🧰 Tools & OS
@@ -79,16 +77,18 @@
 
 ---
 
+```
 [SECURITY_LOG]
 > Transmission stable.
 > Uplink encrypted [AES-4096].
 > GlitchLayer::ACTIVE ⚡
 > Monitoring nodes for breach attempts...
-> 
+>
 > ...signal distortion detected...
 > Restoring visual interface ███▒▒▒▒▒▒▒
 > SYSTEM STABLE ✅
 > END OF LINE...
-
 > "Security is not a product, but a process." — Bruce Schneier
-> Continuously evolving between **Web Development**, **Cybersecurity**, and **Digital Defense Engineering**.
+> Continuously evolving between Web Development, Cybersecurity, and Digital Defense Engineering.
+```
+```
